@@ -11,7 +11,7 @@ designed to help you quickly set up a scalable and maintainable framework for yo
 
 ## Technologies Used
 
-- **Pygame**: A set of Python modules designed for writing video games.
+- **Pygame**: A set of Python modules designed for building video games.
 - **Python**: The core programming language for scripting game logic.
 
 
